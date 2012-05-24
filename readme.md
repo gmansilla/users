@@ -17,6 +17,7 @@ or
 	./Console/cake Migrations.migration all --plugin Users
 
 You will also need the [CakeDC Search plugin](http://github.com/CakeDC/search), just grab it and put it into your application's plugin folder.
+If you are working with Cakephp 2.0 or greater remember to clone the 2.0 branch of this plugin, don't forget to add the [CakeDC Utils plugin](http://github.com/CakeDC/utils)
 
 ## How to use it ##
 
